@@ -1,0 +1,2 @@
+Para el primer commit añadire ambos al commit, para el segundo excluire prueba2.txt
+y vere como se vio reflejado si lo excluye para el commit 2 o no 
